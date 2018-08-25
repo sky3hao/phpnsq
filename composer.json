@@ -15,14 +15,7 @@
         }
     },
     "authors": [
-        {
-            "name": "stackerzzq",
-            "email": "foo_stacker@yeah.net"
-        },
-        {
-            "name": "sky3hao",
-            "email": "sky3hao@qq.com"
-        }
+
     ],
     "license": "MIT"
 }
