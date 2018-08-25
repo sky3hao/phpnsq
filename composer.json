@@ -1,5 +1,5 @@
 {
-    "name": "okstuff/phpnsq",
+    "name": "sky3hao/phpnsq",
     "description": "PHP Client for nsq",
     "type": "library",
     "keywords": ["nsq", "queue"],
